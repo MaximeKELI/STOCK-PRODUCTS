@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xrzYnwMqOeQDBzzQqpZZnMJUcZkJzbOXGrOm4GptbXs=",
+  "Source": "StockLandyApi",
+  "BasePath": "_content/StockLandyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
