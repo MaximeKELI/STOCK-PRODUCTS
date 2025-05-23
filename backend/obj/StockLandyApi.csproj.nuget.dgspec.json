@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/maxime/Stock-Master/backend/StockLandyApi.csproj": {}
+    "/home/maxime/Landy/backend/StockLandyApi.csproj": {}
   },
   "projects": {
-    "/home/maxime/Stock-Master/backend/StockLandyApi.csproj": {
+    "/home/maxime/Landy/backend/StockLandyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/maxime/Stock-Master/backend/StockLandyApi.csproj",
+        "projectUniqueName": "/home/maxime/Landy/backend/StockLandyApi.csproj",
         "projectName": "StockLandyApi",
-        "projectPath": "/home/maxime/Stock-Master/backend/StockLandyApi.csproj",
+        "projectPath": "/home/maxime/Landy/backend/StockLandyApi.csproj",
         "packagesPath": "/home/maxime/.nuget/packages/",
-        "outputPath": "/home/maxime/Stock-Master/backend/obj/",
+        "outputPath": "/home/maxime/Landy/backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/maxime/.nuget/NuGet/NuGet.Config"
